@@ -1,0 +1,26 @@
+.card{
+    width: 400px;
+    margin-top: 250px;
+    font-family: 'Segoe UI';
+    
+  }
+  .card-body table{
+    font-size: 15px;
+  }
+  .card-body table tr td{
+    padding: 5px;
+  }
+  .btn {
+    margin-top: 5px;
+    width: 75%;
+  }
+  .card-footer b{
+    font-size: 12px;
+  }
+  .alert {
+    margin-left: 10px;
+    margin-right: 10px;
+  }
+  .card-footer h4{
+    margin-top: 25px;
+  }
